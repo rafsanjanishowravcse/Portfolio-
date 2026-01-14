@@ -1,7 +1,7 @@
 # 🚀 Responsive Portfolio Website
 
 A modern, responsive portfolio website built with **HTML, CSS, and JavaScript**.  
-This project is designed to showcase professional resumes, projects, skills, and experiences in a clean and interactive way.  
+This project is designed to showcase professional resumes, projects, skills, and  experiences in a clean and interactive way.  
 
 ## ✨ Features
 
